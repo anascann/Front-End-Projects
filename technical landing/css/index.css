@@ -1,0 +1,28 @@
+body{
+
+background: url('../images/photo-1496181133206-80ce9b88a853.jpg');
+   background-repeat:repeat-x;
+    background-size: cover;
+   background-attachment:fixed;
+  
+ 
+  
+    font-family: Bebas Neue;
+}
+.center{
+text-align: center;
+padding-top: 15%;}
+
+h1, p{
+color: antiquewhite;}
+
+h2{
+color:antiquewhite;}
+
+@media(max-width:768px){
+    h1,p{
+color: dimgray;}
+    
+    h2{
+color: darkslategrey;}
+}
